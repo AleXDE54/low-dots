@@ -2,4 +2,4 @@
 HYPRLAND setup for wery low-end pcs
 
 
-#NOT READY YET
+# NOT READY YET
